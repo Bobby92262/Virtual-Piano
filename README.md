@@ -26,14 +26,14 @@ A virtual paino built using IoT andAI technology, powered by a Raspberry Pi4. Th
 ---
 
 ## Software and Tools
--**Python**: Programming language for development.
--**OpenCV**: For real-time finger detection and image processing.
--**TensorFlow/TensorFlow Lite**: Optional for training and deploying AI models.
--**Azure IoT Hub**: For cloud integration and data analysis.
--**MQTT**: For secure and lightweight data communication.
--**Blynk**: Mobile App for real-time visualisation and control.
--**Custom Vision AI**: For recognising and mapping finger positions.
--**Docker (Optional)**: For containerising and simplifying deployments.
+- **Python**: Programming language for development.
+- **OpenCV**: For real-time finger detection and image processing.
+- **TensorFlow/TensorFlow Lite**: Optional for training and deploying AI models.
+- **Azure IoT Hub**: For cloud integration and data analysis.
+- **MQTT**: For secure and lightweight data communication.
+- **Blynk**: Mobile App for real-time visualisation and control.
+- **Custom Vision AI**: For recognising and mapping finger positions.
+- **Docker (Optional)**: For containerising and simplifying deployments.
 
 ---
 
