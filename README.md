@@ -14,7 +14,7 @@ A virtual paino built using IoT andAI technology, powered by a Raspberry Pi4. Th
 
 ---
 
-##Hardware Components
+## Hardware Components
 - Raspberry Pi 4 (Core Processor)
 - Camera Module for finger placement detection
 - LCD Display for note visualisation and instructions
@@ -50,6 +50,7 @@ sudo apt-get update
 sudo apt-get install python3-pip
 pip3 install opencv-python tensorflow azure-iot-device paho-mqtt blynklib
 ```
+### Run Command
 ```bash
 python3 virtual_piano.py
 ```
