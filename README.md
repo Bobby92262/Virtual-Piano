@@ -1,7 +1,7 @@
 # Virtual-Piano
 
 ## Overview
-A virtual paino built using IoT andAI technology, powered by a Raspberry Pi4. The system utilises a camera to detect finger placement, offers real-time feedback, and allows multi-user access through mobile devices. The project integrates sensors, cloud connectivity, and date visualisation to create an engaging learning experience.
+A virtual piano built using IoT and AI technology, powered by a Raspberry Pi 4. The system utilises a camera to detect finger placement, offers real-time feedback, and allows multi-user access through mobile devices. The project integrates sensors, cloud connectivity, and date visualisation to create an engaging learning experience.
 
 ---
 
