@@ -10,7 +10,7 @@ A virtual paino built using IoT andAI technology, powered by a Raspberry Pi4. Th
 - **Multi-User Access**: Mobile phones connect via Bluetooth or Wi-Fi, enabling multiple users.
 - **Interactive Feedback**: Visual, audio, or LED-based cues for correct or incorrect notes.
 - **IoT Integration**: Cloud-based data storage and anlysis using Azure IoT Hub.
-- **Data Visualisation**: Displays user performance etrics on an LCD screen or mobile app.
+- **Data Visualisation**: Displays user performance metrics on an LCD screen or mobile app.
 
 ---
 
