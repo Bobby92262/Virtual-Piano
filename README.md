@@ -18,10 +18,10 @@ A virtual paino built using IoT andAI technology, powered by a Raspberry Pi4. Th
 - **Raspberry Pi 4 (Core Processor)**
 - **Camera Module for finger placement detection**
 - **LCD Display for note visualisation and instructions**
-- **PIR Motion Sensor for etecting user presence** (optional)
+- **PIR Motion Sensor for detecting user presence** (optional)
 - **Ultasonic Ranger for keyboard calibration** (optional)
-- **LEDs for interactive bisual feedback**
-- **Bluetooth/Wi-Fi for multi-device connectivity**
+- **LEDs for interactive visual feedback**
+- **Bluetooth/Wi-Fi for multi-device connectivity** (optional)
 
 ---
 
